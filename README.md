@@ -14,13 +14,15 @@ java 注解使用
 
 5.生成的Java文件构造方法:构造中完成findViewById；
 
-```public MainActivity_ViewBinding(MainActivity target) {
+```
+public MainActivity_ViewBinding(MainActivity target) {
     target.mTextView = (TextView)target.findViewById(2131231127);
 }
 ```
 
 6.有一个注入类
-```public static void bind(Activity activity) {
+```
+public static void bind(Activity activity) {
     //1、获取全限定类名
     String name = activity.getClass().getName();
     try {
