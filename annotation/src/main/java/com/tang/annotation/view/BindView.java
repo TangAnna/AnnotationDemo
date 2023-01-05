@@ -10,8 +10,7 @@ import java.lang.annotation.Target;
  * time: 2022/8/11 11:20 AM.
  *
  * @author TangAnna
- * email: tang_an@murongtech.com
- * copyright: 北京沐融信息科技股份有限公司
+ * email: 18201399976@163.com
  */
 @Retention(RetentionPolicy.CLASS)
 @Target(ElementType.FIELD)
