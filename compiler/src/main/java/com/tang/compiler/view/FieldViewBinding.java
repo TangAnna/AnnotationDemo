@@ -7,8 +7,7 @@ import javax.lang.model.type.TypeMirror;
  * time: 2022/8/11 11:45 AM.
  *
  * @author TangAnna
- * email: tang_an@murongtech.com
- * copyright: 北京沐融信息科技股份有限公司
+ * email: 18201399976@163.com
  */
 public class FieldViewBinding {
     public String fieldName;
