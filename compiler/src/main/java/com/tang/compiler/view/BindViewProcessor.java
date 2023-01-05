@@ -31,7 +31,6 @@ import javax.lang.model.util.Elements;
  *
  * @author TangAnna
  * email: tang_an@murongtech.com
- * copyright: 北京沐融信息科技股份有限公司
  */
 @SupportedAnnotationTypes({"com.tang.annotation.view.BindView"})
 public class BindViewProcessor extends AbstractProcessor {
